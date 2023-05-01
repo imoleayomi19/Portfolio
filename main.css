@@ -1,0 +1,42 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 1px;
+}
+
+ul, li, a{
+    text-decoration: none;
+    display: flex;
+    padding: 5px;
+    color: black;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 900px;
+}
+
+p {
+    font-weight: 500px;
+}
+
+section {
+    text-align: center;
+    color: white;
+    background-image: url(img/UMJQ7943.JPG);
+    height: 300px;
+    /* width: 900px; */
+    padding-top: 1px;
+    padding-top: 250px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+img {
+    width: 100px;
+    height: 35px;
+    /* padding-right: 100px;
+    padding-top: 10px; */
+}
